@@ -43,7 +43,7 @@ To display the slider on a page or post, simply add the shortcode [fusion_home_s
 You can customize the appearance of the slider by modifying the CSS and JavaScript files included in the plugin. Refer to the plugin documentation for more details on customization options.
 
 # Support
-# If you encounter any issues or need assistance, please reach out to [haziq.khatri5436@gmail.com] or visit [glorextech.com].
+ If you encounter any issues or need assistance, please reach out to [haziq.khatri5436@gmail.com] or visit glorextech.com.
 
 Changelog
 1.0.0
